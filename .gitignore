@@ -1,0 +1,7 @@
+CSV\ Files
+Data\ zip\ files
+hist_plots
+Scripts
+*.Rproj*
+.Rhistory
+*.csv
